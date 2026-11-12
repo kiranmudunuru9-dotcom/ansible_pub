@@ -1,1 +1,2 @@
-192.168.0.181
+192.168.0.238 apache_package=php php_package=php
+192.168.0.181 apache_package=apache2 php_package=libapache-mod-php
